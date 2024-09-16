@@ -5,8 +5,9 @@ This is part of https://coderefinery.github.io/reproducible-python/.
 
 ## Purpose
 
-(for branch commit testing lets modify this)
-(for the scond time now)
+
+(this chnange is done in main branch, as a third commit)
+
 
 
 ## Requirements
