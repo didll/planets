@@ -5,7 +5,7 @@ This is part of https://coderefinery.github.io/reproducible-python/.
 
 ## Purpose
 
-(...)
+(for branch commit testing lets modify this)
 
 
 ## Requirements
